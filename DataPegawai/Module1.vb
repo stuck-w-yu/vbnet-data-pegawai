@@ -1,7 +1,6 @@
 ﻿Imports MySql.Data.MySqlClient
 
 Module ModuleMySQL
-    ' HANYA INI SAJA ISINYA
     Public ConnStr As String = "server=localhost;user id=root;password=;database=ADOGaji;Convert Zero Datetime=True;"
 
     Public X As Integer
