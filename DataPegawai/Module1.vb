@@ -10,5 +10,4 @@ Module ModuleMySQL
     Public MYSQLRDR As MySqlDataReader
     Public CNN As MySqlConnection
 
-    ' TIDAK BOLEH ADA "Sub Main" DISINI
 End Module
