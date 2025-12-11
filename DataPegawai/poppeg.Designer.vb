@@ -81,7 +81,7 @@ Partial Class poppeg
         Controls.Add(TxtCari)
         Controls.Add(BtnOK)
         Name = "poppeg"
-        Text = "poppeg"
+        Text = "List Data"
         ResumeLayout(False)
         PerformLayout()
     End Sub

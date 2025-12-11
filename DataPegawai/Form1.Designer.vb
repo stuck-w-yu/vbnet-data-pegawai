@@ -167,7 +167,7 @@ Partial Class Form1
         GroupBox1.Size = New Size(138, 332)
         GroupBox1.TabIndex = 12
         GroupBox1.TabStop = False
-        GroupBox1.Text = "GroupBox1"
+        GroupBox1.Text = "Control Panel"
         ' 
         ' BtnExit
         ' 
@@ -279,7 +279,7 @@ Partial Class Form1
         Controls.Add(TxtNIP)
         Controls.Add(Label1)
         Name = "Form1"
-        Text = "Form1"
+        Text = "Data Pegawai"
         GroupBox1.ResumeLayout(False)
         ResumeLayout(False)
         PerformLayout()
